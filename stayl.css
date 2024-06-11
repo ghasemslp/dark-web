@@ -1,0 +1,12 @@
+body{
+    background-image: url(Devil-Background-Images.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+div.div1{
+    color: red; text-align: center;font-size: 50px;
+}
+div #div3{
+    font-size: large; text-align:center;color: red;
+}
